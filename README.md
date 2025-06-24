@@ -1,12 +1,12 @@
 # Cumulus Data Metrics Reporting
 
-Set of visualizations for [Qualifer](https://github.com/sync-for-science/qualifier/blob/master/metrics.md) FHIR data quality and characterization metrics generated using the open source [Cumulus](https://github.com/smart-on-fhir/cumulus-library-data-metrics) tool. Cumulus can be run directly on files returned from a [Bulk FHIR export](https://hl7.org/fhir/uv/bulkdata/export.html), or on a [Cumulus AWS Athena FHIR data lake](https://docs.smarthealthit.org/cumulus/etl/).
+Visualizations for [Qualifer](https://github.com/sync-for-science/qualifier/blob/master/metrics.md) FHIR data quality and characterization metrics generated using the open source [Cumulus](https://github.com/smart-on-fhir/cumulus-library-data-metrics) tool. Cumulus can be run directly on files returned from a [Bulk FHIR export](https://hl7.org/fhir/uv/bulkdata/export.html), or on a [Cumulus AWS Athena FHIR data lake](https://docs.smarthealthit.org/cumulus/etl/).
 
 These reports are intended to be a starting point for your FHIR data quality reporting needs, and can be easily customized to highlight different aspects of the Qualifier metrics.
 
 ## Demo
 
-Data visualizations of [metrics for a sample patient population](https://docs.smarthealthit.org/cumulus-data-metrics-reporting/) generated with [Synthea](https://github.com/synthetichealth/synthea/wiki).
+Data visualizations of [metrics for a sample patient population](https://docs.smarthealthit.org/cumulus-data-metrics-reporting/) generated with [Synthea](https://github.com/synthetichealth/synthea/wiki). Note that while the visualizations themselves work in all modern browsers, the github hosted version used by the demo is not compatible with Firefox. 
 
 ## Setup
 
